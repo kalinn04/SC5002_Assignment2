@@ -1,7 +1,4 @@
-# SC5002_Assignment2
-Lab Assignment 2
-
-# SC5002 Lab Assignment – Sleep Debt Classification Using Neural Networks
+# SC5002 Lab Assignment 2 – Sleep Debt Classification Using Neural Networks
 
 **Course:** SC5002 Artificial Intelligence Fundamentals & Applications (NTU)
 
