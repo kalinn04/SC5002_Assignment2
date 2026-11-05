@@ -1,5 +1,5 @@
 # SC5002
-Lab Assignment 2
+Lab Assignment 2 - Member (1) : Yap Kang Lin (U2440387F)
 
 # SC5002 Lab Assignment 2 – Clustering & Neural Networks
 
