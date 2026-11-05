@@ -21,6 +21,7 @@ This lab assignment explores different machine learning techniques, covering uns
 | `SC5002 Lab Assignment 2_Exercise3.ipynb` | Neural network implementation using a selected real-world dataset |
 | `README.md` | This file |
 | `readme_exercise3.md` | Detailed Explanation neural network implementation on selected real-world dataset |
+| `bedtime_screentime_sleep_debt.csv` | Dataset |
 
 ## How to Run
 
