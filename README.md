@@ -17,11 +17,11 @@ This lab assignment explores different machine learning techniques, covering uns
 
 | File | Description |
 |---|---|
-| `SC5002 Lab Assignment 2_Exercise1 and 2.ipynb` | K-Means clustering, customer segmentation, Elbow Method, and initialisation analysis and K-Means clustering on a synthetic two-circle dataset |
-| `SC5002 Lab Assignment 2_Exercise3.ipynb` | Neural network implementation using a selected real-world dataset |
 | `README.md` | This file |
 | `readme_exercise3.md` | Detailed Explanation neural network implementation on selected real-world dataset |
 | `bedtime_screentime_sleep_debt.csv` | Dataset |
+| `SC5002 Lab Assignment 2_Exercise1 and 2.ipynb` | K-Means clustering, customer segmentation, Elbow Method, and initialisation analysis and K-Means clustering on a synthetic two-circle dataset |
+| `SC5002 Lab Assignment 2_Exercise3.ipynb` | Neural network implementation using a selected real-world dataset |
 
 ## How to Run
 
